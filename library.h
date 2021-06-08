@@ -1,0 +1,6 @@
+#ifndef DRAPP_NATIVE_LIBRARY_H
+#define DRAPP_NATIVE_LIBRARY_H
+
+void hello();
+
+#endif //DRAPP_NATIVE_LIBRARY_H

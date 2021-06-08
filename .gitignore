@@ -1,0 +1,4 @@
+# Project exclude paths
+/bin/
+/build/
+/cmake-build-debug/
